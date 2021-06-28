@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**baranertemir/baranertemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 17 years old High School student in Turkey, I'm interested in Threat Intelligence and Malware Analysis.
 
-Here are some ideas to get you started:
+:notebook: Website:
+- https://baranertemir.github.io/
+- https://baranertemir.wordpress.com/
+- https://baranertemir.medium.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="http://twitter.com/baranertemir%22%3E
+    <img src="https://img.shields.io/twitter/follow/baranertemir?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/baranertemir?tab=followers%22%3E
+    <img src="https://img.shields.io/github/followers/baranertemir?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+
+
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=baranertemir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&card_width=500" /></p>
+
+<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=baranertemir&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p>
