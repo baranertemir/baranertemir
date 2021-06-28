@@ -9,7 +9,7 @@ I'm 17 years old High School student in Turkey, I'm interested in Threat Intelli
 
 <p align="center">
   <a href="http://twitter.com/baranertemir1">
-    <img src="https://img.shields.io/twitter/follow/baranertemir?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/baranertemir1?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://github.com/baranertemir?tab=followers">
     <img src="https://img.shields.io/github/followers/baranertemir?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
