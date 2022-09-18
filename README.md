@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-I'm 18 years old High School student in Turkey, I'm interested in Threat Intelligence and Malware Analysis.
+I'm 18 years old High School student in Turkey, I'm interested in Cyber Security, Web App Security, Threat Intelligence, Malware Analysis.
 
 :notebook: Website:
 - https://baranertemir.github.io/
