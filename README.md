@@ -12,7 +12,7 @@ Python, HTML, Bash, JS
 
 #### 💻 Operating Sytems:
 
-Windows, MacOS, Linux
+Windows, MacOS, Ubuntu, Kali
 
 
 :notebook: Website:
