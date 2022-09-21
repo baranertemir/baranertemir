@@ -2,11 +2,11 @@
 
 I'm 18 years old High School student in Turkey, I'm interested in Cyber Security, Web App Security, Threat Intelligence, Malware Analysis.
 
-#### Languages:
+#### 💻 Languages:
 
 Python, HTML, Bash, JS
 
-#### Operating Sytems:
+#### 💻 Operating Sytems:
 
 Windows, MacOS, Linux
 
